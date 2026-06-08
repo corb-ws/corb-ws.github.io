@@ -1,7 +1,7 @@
 html {
     background-color: aqua;
 }
-.center {
+body.center {
   display: flex;
   justify-content: center;
   align-items: center;
